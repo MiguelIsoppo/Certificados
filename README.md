@@ -1,7 +1,7 @@
 # Certificados
 Neste repositório decidi juntar todos  os meus crtificados de cursos do Alura
 ___
-## Link para ver um preview dos certificados
+## Link para baixar os certificados
 
 [Miguel Isoppo - Formação A partir do zero_ iniciante em programação - Alura.pdf](https://github.com/user-attachments/files/24967347/Miguel.Isoppo.-.Formacao.A.partir.do.zero_.iniciante.em.programacao.-.Alura.pdf)
 
